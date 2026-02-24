@@ -28,3 +28,7 @@ if __name__ == "__main__":
     sample = [64, 34, 25, 12, 22, 11, 90]
     print("原数组:", sample)
     print("排序后:", bubble_sort(sample))
+
+    sample2 = [3, -1, 3, 0, -5, 8, 8]
+    print("原数组2:", sample2)
+    print("排序后2:", bubble_sort(sample2))
